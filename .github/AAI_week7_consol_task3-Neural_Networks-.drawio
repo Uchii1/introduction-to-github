@@ -254,7 +254,7 @@
           <mxGeometry height="40" width="110" x="340" y="10" as="geometry" />
         </mxCell>
         <mxCell id="nl83zEWiC3PxjT_UZ84V-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;OUTPUT&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1 NEURON&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="650" y="10" as="geometry" />
+          <mxGeometry height="40" width="110" x="640" y="10" as="geometry" />
         </mxCell>
         <mxCell id="nl83zEWiC3PxjT_UZ84V-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;LAYER 3&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;32 NEURONS&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="475" y="10" as="geometry" />
